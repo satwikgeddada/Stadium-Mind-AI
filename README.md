@@ -138,7 +138,7 @@ graph TD
     end
 
     subgraph "☁️ Cloud AI"
-        GeminiCloud((Google Gemini 1.5))
+        GeminiCloud((Google Gemini 3.1))
     end
 
     F & V & S & O --> UI
