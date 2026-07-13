@@ -98,20 +98,16 @@ Managing a massive stadium during a global tournament like the FIFA World Cup is
 | AI Control Dashboard |
 | :---: | 
 | <img width="1901" height="856" alt="Screenshot 2026-07-13 214258" src="https://github.com/user-attachments/assets/88cb89e3-ac37-4fca-9848-582a45ae2614" />
- |
 | AI Volunteer Assignment |
 | :---: |
 | <img width="1920" height="1080" alt="Screenshot 2026-07-13 215743" src="https://github.com/user-attachments/assets/21410c81-952d-4c0c-a199-2de63ca9215f" />
- |
-
 | Smart Indoor Navigation |
 | :---: |
 | <img width="1920" height="1080" alt="Screenshot 2026-07-13 215723" src="https://github.com/user-attachments/assets/82230a30-1bd4-4d2a-bd6c-420b9450afd6" />
-|
 | Emergency Response Generation |
 | :---: |
  | <img width="1920" height="1080" alt="Screenshot 2026-07-13 215856" src="https://github.com/user-attachments/assets/7a65a3c5-41e1-468d-b756-638c6b362695" />
-|
+
 
 </details>
 
