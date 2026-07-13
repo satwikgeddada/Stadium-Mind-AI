@@ -1,0 +1,8 @@
+{
+  "condition": "Cloudy",
+  "temperature": "27°C",
+  "forecast": "Expected light rain in the evening.",
+  "wind": "15 km/h NW",
+  "humidity": "65%",
+  "uvIndex": 4
+}

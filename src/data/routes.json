@@ -1,0 +1,38 @@
+[
+  {
+    "seatNumber": "A102",
+    "destination": "Section A, VIP Level",
+    "walkingTime": "3 mins",
+    "directions": [
+      { "instruction": "Walk Straight", "icon": "ArrowUp" },
+      { "instruction": "Turn Left at Gate 2", "icon": "CornerUpLeft" },
+      { "instruction": "Take Escalator up", "icon": "ArrowUpCircle" },
+      { "instruction": "Enter Section A", "icon": "MapPin" },
+      { "instruction": "Arrive at Seat A102", "icon": "User" }
+    ]
+  },
+  {
+    "seatNumber": "B205",
+    "destination": "Section B, Level 3",
+    "walkingTime": "5 mins",
+    "directions": [
+      { "instruction": "Walk Straight", "icon": "ArrowUp" },
+      { "instruction": "Turn Right past Food Court", "icon": "CornerUpRight" },
+      { "instruction": "Take Stairs to Level 3", "icon": "ArrowUpRight" },
+      { "instruction": "Walk 50m Ahead", "icon": "ArrowUp" },
+      { "instruction": "Enter Section B", "icon": "MapPin" },
+      { "instruction": "Arrive at Seat B205", "icon": "User" }
+    ]
+  },
+  {
+    "seatNumber": "C10",
+    "destination": "Section C, Ground Level",
+    "walkingTime": "2 mins",
+    "directions": [
+      { "instruction": "Turn Right immediately", "icon": "CornerUpRight" },
+      { "instruction": "Walk Straight past Merchandise", "icon": "ArrowUp" },
+      { "instruction": "Enter Section C", "icon": "MapPin" },
+      { "instruction": "Arrive at Seat C10", "icon": "User" }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "INC-001",
+    "type": "Medical",
+    "location": "Gate A",
+    "status": "Active",
+    "priority": "High",
+    "timestamp": "2026-07-13T19:45:00Z"
+  },
+  {
+    "id": "INC-002",
+    "type": "Security",
+    "location": "Parking",
+    "status": "Resolved",
+    "priority": "Medium",
+    "timestamp": "2026-07-13T18:30:00Z"
+  }
+]

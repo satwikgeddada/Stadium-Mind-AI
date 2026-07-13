@@ -1,0 +1,12 @@
+{
+  "gateA": 40,
+  "gateB": 85,
+  "gateC": 30,
+  "foodCourt": 70,
+  "parking": 65,
+  "visitors": 58420,
+  "weather": "Cloudy 27°C",
+  "medicalAlerts": 2,
+  "securityAlerts": 1,
+  "volunteersAvailable": 42
+}
