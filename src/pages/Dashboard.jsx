@@ -44,7 +44,7 @@ const Dashboard = () => {
   const fetchRecommendation = async () => {
     try {
       setLoadingRec(true);
-      const res = await fetch('http://localhost:8000/recommendation', {
+      const res = await fetch('https://stadium-mind-ai.onrender.com/recommendation', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
