@@ -28,7 +28,7 @@ const Emergency = () => {
     setError(null);
 
     try {
-      const res = await fetch('http://localhost:8000/emergency', {
+      const res = await fetch('https://stadium-mind-ai.onrender.com/emergency', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ 
